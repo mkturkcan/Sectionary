@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mkturkcan/Sectionary/blob/main/logo.jpg?raw=true" />
+  <img src="https://github.com/mkturkcan/Sectionary/blob/main/assets/logo.png?raw=true" />
 </p>
 
 # Sectionary
